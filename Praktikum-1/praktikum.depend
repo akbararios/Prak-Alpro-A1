@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645502913 source:c:\users\ryzen\documents\[important] pjj corona kiwami\praktikum\alpro\project\praktikum\hello world.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:c:\users\ryzen\documents\[important] pjj corona kiwami\praktikum\alpro\project\praktikum\main.c
+	<stdio.h>
+	<stdlib.h>
+
